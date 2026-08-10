@@ -1,3 +1,4 @@
+package SWEXPERT.jejeon322_star.D1;
 //연월일 달력
 
 import java.util.Scanner;
@@ -43,6 +44,6 @@ public class Q2056 {
 		
 		
 		
+	}	
 		
-		
-	}
+}
