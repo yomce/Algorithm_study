@@ -1,5 +1,5 @@
 package SWEXPERT.jejeon322_star.D1;
-
+// 최대값 구하기
 import java.util.Scanner;
 
 public class Q2068 {

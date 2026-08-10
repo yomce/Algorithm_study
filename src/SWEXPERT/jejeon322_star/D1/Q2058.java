@@ -3,7 +3,6 @@ package SWEXPERT.jejeon322_star.D1;
 
 //자릿수 더하기
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Q2058 {
 
