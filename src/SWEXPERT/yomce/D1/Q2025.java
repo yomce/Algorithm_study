@@ -7,9 +7,11 @@ public class Q2025 {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 		int sum =0;
-		
-		sum = N*(N+1)/2; 
-		
+		for (int i=1; i <= N; i++) {
+			sum += i;
+			
+			// sum = N*(N+1)/2;
+		}
 		System.out.println(sum);
 	}
 }
