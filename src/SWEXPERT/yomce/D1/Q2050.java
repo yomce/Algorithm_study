@@ -10,17 +10,8 @@ public class Q2050 {
 		int len = alphabet.length();
 		
 		for (int i = 0; i < len; i++) {
-			String[] arr = new String[len];
-			arr[i] = alphabet.charAt(i);
+			int alp = alphabet.charAt(i) - 'A' + 1;
+			System.out.print(alp + " ");
 		}
-		
-		char a = 'A';
-
-
-		int A  = (int) a - 64;
-
-		
-		System.out.println(alphabet);
-		
 	}
 }
