@@ -1,0 +1,11 @@
+package SWEXPERT.yomce.D1;
+
+public class Q2027 {
+	public static void main(String[] args) {
+		System.out.println("#++++");
+		System.out.println("+#+++");
+		System.out.println("++#++");
+		System.out.println("+++#+");
+		System.out.println("++++#");
+	}
+}
