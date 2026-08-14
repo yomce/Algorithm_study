@@ -1,7 +1,7 @@
 package SWEXPERT.jejeon322_star.D1;
 
 
-//자릿수 더하기
+//자릿수 더하기 해결
 import java.util.Scanner;
 
 public class Q2058 {
@@ -12,6 +12,13 @@ public class Q2058 {
 		
 		int N = sc.nextInt();
 		
+		//상진님 풀이
+//		String[] N = sc.next().split(""); //{6,7,8,9}
+//		int sum =0;
+//		for(String i : N) {
+//			sum+= Integer.parseInt(i);
+//		}
+//		System.out.println(sum);
 		/// N에 받은숫자를 배열에 저장하고싶음
 		/// 배열의 최대 크기가 4이긴함
 		/// N = 1a + 10b+ 100c+1000d 를 이용하는건 아니겠지??
