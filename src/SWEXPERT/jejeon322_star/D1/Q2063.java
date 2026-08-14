@@ -1,10 +1,10 @@
+
 package SWEXPERT.jejeon322_star.D1;
-//중간값 찾기
+//중간값 찾기 해결
 import java.util.Arrays;
 import java.util.Scanner;
 
 class Q2063{
-
 
 	
 		    public static void main(String args[]) 
