@@ -7,6 +7,8 @@ class Q2056 {
 		Scanner sc = new Scanner(System.in);
 
 		int T = sc.nextInt();
+		
+		
 
 
 	}
