@@ -18,6 +18,7 @@ public class SWEXPERT_12712_파리퇴치3 {
 			N = sc.nextInt();
 			M = sc.nextInt();
 			map = new int[N][N];
+			ans = 0;
 			
 			// 파리 맵
 			for(int i=0; i<N; i++) {
