@@ -9,7 +9,9 @@ public class SWEXPERT_20230_풍선팡보너스게임2 {
 		T=sc.nextInt();
 
 		for(int test_case = 1; test_case <= T; test_case++) {
-			
+			for(int i=0; ; ) {
+				
+			}
 		}
 		
 	}
